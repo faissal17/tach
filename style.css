@@ -1,0 +1,49 @@
+#flix{
+   height: 250px;
+   display: flex;
+   border: 3px solid black;
+   padding-bottom: 180px;
+   margin-top: 70px;
+   background-color: black;
+   position: relative;
+   margin-left: 50px;
+   margin-right: 50px;
+}
+.par{
+    color:white;
+    font-size: 59px;
+    margin-bottom: 50px;
+    margin-left: 12px;
+    font-family: system-ui;
+    width: 950px;
+    padding-left: 58px;
+}
+
+#lo{
+    font-size: 35px;
+    color: white;
+    margin-bottom: 44px;
+    position: absolute;
+    top: 226px;
+    left: 140px ;
+}
+#flix .fofo{
+position: absolute;
+top: 0px;
+left: 890px;
+}
+
+#z1 {
+    position: absolute;
+    width: 25%;
+    top: 86%;
+    left: 137px;
+}
+#li{
+    font-size: 35px;
+    color: white;
+    margin-bottom: 44px;
+    position: absolute;
+    top: 276px;
+    left: 137px ;
+}
